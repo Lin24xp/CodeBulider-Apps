@@ -1,0 +1,182 @@
+{
+  "name": "CodeBulider Apps",
+  "subtitle": "A source for all of my apps",
+  "description": "The CodeBulider Hub",
+  "iconURL": "https://i.imgur.com/NLRhZa3.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "",
+  "tintColor": "#000000",
+  "featuredApps": [
+    "net.nerd.iNDS",
+    "com.google.ios.youtubemusic",
+    "com.google.ios.youtube",
+    "com.spotify.client",
+    "com.zurac.OldOS",
+    "com.aichatbot.assistant"
+  ],
+  "headerURL": "https://i.imgur.com/WdTJYHO.png",
+  "apps": [
+    {
+      "name": "iNDS ",
+      "bundleIdentifier": "net.nerd.iNDS",
+      "marketplaceID": "",
+      "developerName": "CodeBulider Apps",
+      "subtitle": "CodeBulider Apps",
+      "localizedDescription": "CodeBulider Apps",
+      "iconURL": "https://i.imgur.com/kSl2u0x.png",
+      "tintColor": "#f90505",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Need Permission to Access Photos",
+          "NSMicrophoneUsageDescription": "For DS Microphone"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "marketplaceID": "",
+      "developerName": "CodeBulider Apps",
+      "subtitle": "CodeBulider Apps",
+      "localizedDescription": "CodeBulider Apps",
+      "iconURL": "https://i.imgur.com/FpGeJGy.png",
+      "tintColor": "#fc0434",
+      "category": "social",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSCameraUsageDescription": "To take a profile picture, allow YouTube Music to access your camera.",
+          "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos.",
+          "NSPhotoLibraryAddUsageDescription": "To save images, allow YouTube Music to access your photo library.",
+          "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "marketplaceID": "",
+      "developerName": "CodeBulider Apps",
+      "subtitle": "CodeBulider Apps",
+      "localizedDescription": "CodeBulider Apps",
+      "iconURL": "https://i.imgur.com/PO1ivmj.png",
+      "tintColor": "#fc0434",
+      "category": "photo-video",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": "CodeBulider Apps",
+      "subtitle": "CodeBulider Apps",
+      "localizedDescription": "CodeBulider Apps",
+      "iconURL": "https://i.imgur.com/rEYCvSN.png",
+      "tintColor": "#00c10b",
+      "category": "social",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "OldOS",
+      "bundleIdentifier": "com.zurac.OldOS",
+      "marketplaceID": "",
+      "developerName": "CodeBulider Apps",
+      "subtitle": "CodeBulider Apps",
+      "localizedDescription": "CodeBulider Apps",
+      "iconURL": "https://i.imgur.com/2PPl2ID.png",
+      "tintColor": "#000000",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSContactsUsageDescription": "To view and manage your contacts in OldOS, please enable access to your contacts list.",
+          "NSPhotoLibraryUsageDescription": "To view, manage, and add photos to your photo library in OldOS, please enable access. Then close and re-open the Photos app.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app.",
+          "NSLocationWhenInUseUsageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app.",
+          "NSCameraUsageDescription": "To take photos in OldOS, please enable access to your camera.",
+          "NSLocationAlwaysUsageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app.",
+          "NSPhotoLibraryAddUsageDescription": "To view, manage, and add photos to your photo library in OldOS, please enable access. Then close and re-open the Photos app.",
+          "NSMicrophoneUsageDescription": "To record your audio while filming a video in OldOS, please in enable microphone access.",
+          "NSAppleMusicUsageDescription": "To view, play, and experience your music in OldOS, please enable access to your music library. "
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "AiChat",
+      "bundleIdentifier": "com.aichatbot.assistant",
+      "marketplaceID": "",
+      "developerName": "CodeBulider Apps",
+      "subtitle": "CodeBulider Apps",
+      "localizedDescription": "CodeBulider Apps",
+      "iconURL": "https://i.imgur.com/x23wamV.png",
+      "tintColor": "#04a484",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "To take a photo with your camera and extract or generate text for it, please allow access to Camera in your device Settings.",
+          "NSMicrophoneUsageDescription": "We would like to access your microphone to allow the application create voice memos for you during theory test",
+          "NSPhotoLibraryAddUsageDescription": "To enter text from a photo or to generate text for an image, please allow access to Photos in your device Settings.",
+          "NSPhotoLibraryUsageDescription": "To enter text from a photo or to generate text for an image, please allow access to Photos in your device Settings.",
+          "NSSpeechRecognitionUsageDescription": "We would like to recognize your speech to use the app in hands-free mode",
+          "NSUserTrackingUsageDescription": "Your data will be used to bring you timely and relevant content and make your experience with the app more personalized."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
